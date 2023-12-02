@@ -1,4 +1,4 @@
-
+#!/bin/bash
 echo "-------------------------------" 
 echo "sudo iftop -i eth0 -B -P " 
 sudo iftop -i eth0 -B -P
