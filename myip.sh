@@ -1,4 +1,4 @@
-
+# affiche l'@IP internet (wan)
 echo "-------------------------------"
 #echo "curl http://ipecho.net/plain;  "
 echo -n "u'r @IP WAN is : "
