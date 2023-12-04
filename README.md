@@ -1,5 +1,4 @@
 # script-shell-linux
-quelques scripts shell linux 
 
 ./maj.sh lance les APT update upgrade autoclean
 
