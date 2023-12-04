@@ -1,10 +1,10 @@
 # script-shell-linux
 
-./maj.sh /e
+./maj.sh
 lance les APT update upgrade autoclean
 
-./clean.sh /n
+./clean.sh
 lance une serie de commandes pour nettoyer les APT
 
-./myip.sh \r
+./myip.sh
 affiche @IP internet ( WAN )
