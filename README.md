@@ -3,8 +3,8 @@
 ./maj.sh <br>
 lance les APT update upgrade autoclean
 
-./clean.sh
+./clean.sh<br>
 lance une serie de commandes pour nettoyer les APT
 
-./myip.sh
+./myip.sh<br>
 affiche @IP internet ( WAN )
