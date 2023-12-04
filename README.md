@@ -1,4 +1,4 @@
-# exemples script simples shell linux
+# exemples scripts simples ( shell linux debian-like )
 
 ./maj.sh <br>
 lance les APT update upgrade autoclean
