@@ -1,4 +1,4 @@
-# script-shell-linux
+# exemples script simples shell linux
 
 ./maj.sh <br>
 lance les APT update upgrade autoclean
